@@ -1,6 +1,6 @@
 # ZENO
 
-ZENO is a type-based optimization framework for accelerating zero-knowledge neural network (zkNN) inference, published at ASPLOS'24. ZENO is a research prototype that is unaudited and should not be relied on in production.
+ZENO is a type-based optimization framework for accelerating zero-knowledge neural network (zkNN) inference, published at ASPLOS'24. As a research prototype, ZENO is unaudited and should not be relied on in production.
 
 
 
