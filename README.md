@@ -1,5 +1,9 @@
 # ZENO
 
+ZENO is a type-based optimization framework for accelerating zero-knowledge neural network (zkNN) inference, published at ASPLOS'24. ZENO is a research prototype that is unaudited and should not be relied on in production.
+
+
+
 ## Software Dependencies
 
 - Please follow this [instruction](https://www.rust-lang.org/tools/install) to install Rust.
